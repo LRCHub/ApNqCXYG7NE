@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "えいえんじゃなくてゴ×ンネ",
+  "base_artist": "わらべ",
+  "createdAt": "2026-02-15T09:50:31.859152Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "えいえんじゃなくてゴ×ンネ",
+      "artist": "わらべ",
+      "has_synced": false,
+      "path": "select/pl_01_えいえんじゃなくてゴ×ンネ_わらべ.txt"
+    }
+  ]
+}
